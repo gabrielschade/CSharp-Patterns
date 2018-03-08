@@ -1,3 +1,5 @@
+> Texto original em: https://gabrielschade.github.io/2018/04/02/gof-command.html
+
 ### Sobre o padrão Command
 
 O padrão *Command* é relativamente simples, trata-se de criarmos uma estrutura para execução de **comandos**.
